@@ -10,17 +10,33 @@
 
 .row {
     column-gap: 0px;
-    
+}
 
+.text1 {
+    text-align: right;
+    float: right;
+    justify-content: flex-end;
+}
+.Food1 {
+   float:left;
+}
+
+.text2 {
+   text-align: right;
+   justify-content: flex-end;
+}
+.drink {
+  float: right;
+  align-items: flex-end;
 
 }
+
 .logo {
   width: 1px;
   height: 1px;
   image-orientation: center-block;
   padding-left: 3px;
   padding-right: 3px;
-
 
 }
 .top {
