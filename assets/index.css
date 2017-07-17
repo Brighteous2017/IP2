@@ -1,9 +1,30 @@
 .well
 {
   background-image: url(landing.jpg);
+  width: 1000px;
+  height: 400px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
+.row {
+    column-gap: 0px;
+    
+
+
+}
+.logo {
+  width: 1px;
+  height: 1px;
+  image-orientation: center-block;
+  padding-left: 3px;
+  padding-right: 3px;
+
+
+}
 .top {
   text-align: center;
   text-decoration: none;
+
 }
