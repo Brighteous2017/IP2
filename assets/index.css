@@ -7,7 +7,25 @@
   margin-left: 50px;
   margin-right: 50px;
 }
+div.bottomcenter {
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  padding-left: 30px;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
 
+#logo {
+  width: 1px;
+  height: 1px;
+  image-orientation: center;
+  padding-left: 450px;
+  padding-right:
+  position: relative;
+  float: center;
+
+}
 .row {
     column-gap: 0px;
 
@@ -44,19 +62,5 @@
 .drink {
   float: right;
   align-items: flex-end;
-
-}
-
-.logo {
-  width: 1px;
-  height: 1px;
-  image-orientation: center-block;
-  padding-left: 3px;
-  padding-right: 3px;
-
-}
-.top {
-  text-align: center;
-  text-decoration: none;
 
 }
