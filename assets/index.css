@@ -19,8 +19,13 @@
 }
 .Food1 {
    float:left;
-}
 
+}
+.nested{
+  column-gap: 0px;
+  position: relative;
+  background-color: grey;
+}
 .text2 {
    text-align: right;
    justify-content: flex-end;
