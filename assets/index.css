@@ -1,4 +1,4 @@
-.well
+.ben
 {
   background-image: url(landing.jpg);
   width: 1000px;
@@ -26,6 +26,15 @@
   position: relative;
   background-color: grey;
 }
+.row3 {
+   background-color: brown;
+
+}
+.well2 {
+  background-color: brown;
+
+}
+
 .text2 {
    text-align: right;
    justify-content: flex-end;
