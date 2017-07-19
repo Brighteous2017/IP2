@@ -1,3 +1,7 @@
+.container {
+  border-color: black block 1px;
+}
+/*I used class ben to fix the first row. The class helped me fix the landing image*/
 .ben
 {
   background-image: url(landing.jpg);
@@ -7,6 +11,7 @@
   margin-left: 50px;
   margin-right: 50px;
 }
+
 div.bottomcenter {
   position: relative;
   text-align: center;
@@ -27,9 +32,10 @@ div.bottomright {
   position: relative;
   image-orientation: right;
   padding-left: 0px;
-  padding-top: 5px;
+  padding-top: 0px;
   margin-right: 180px;
   padding-bottom: auto;
+  image-
 }
 div.topright {
   position: relative;
@@ -79,12 +85,21 @@ div.party {
   height: 100px;
   margin-left: 20px;
 }
-.row {
-    column-gap: 0px;
 
-
+.row4 {
+  background-image: url(foodsBg.jpg);
+  backface-visibility: hidden;
+  width: 1000px;
+  height: 300px;
+  margin-left: 30px;
 }
-
+.row4a {
+  width: 600px;
+  height: 150px;
+  padding-left: 110px;
+  padding-top: 80px;
+  padding-right: 3px;
+}
 .text1 {
     text-align: right;
     float: right;
