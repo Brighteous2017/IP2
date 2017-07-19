@@ -128,15 +128,15 @@ div.party {
   padding-top: 70px;
 }
 .img1 {
+  position: relative;
   padding-left: 10px;
-  margin-left: ;
 }
 .img2 {
   padding-left: 10px;
 }
 .img3 {
   padding-left: 10px;
-  padding-right: ;
+
 }
 .row7 {
   background-color: orange;
