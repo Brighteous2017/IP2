@@ -73,17 +73,21 @@ div.row2 {
   margin-right: 180px;
 }
 
-div.happy {
-  background-color: grey;
+.happy {
+  background-color: #E8E4C9;
   width: 300px;
   height: 100px;
   margin-left: 20px;
+  padding-top: 40px;
+  padding-left: 40px;
 }
-div.party {
-  background-color: orange;
+.party {
+  background-color: #E34234;
   width: 300px;
   height: 100px;
   margin-left: 20px;
+  padding-top: 40px;
+  padding-left: 40px;
 }
 
 .row4 {
@@ -139,7 +143,7 @@ div.party {
 
 }
 .row7 {
-  background-color: orange;
+  background-color: #E34234;
   width: 1000px;
   height: 200px;
   padding-left: 50px;
