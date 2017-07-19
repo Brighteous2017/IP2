@@ -15,7 +15,37 @@ div.bottomcenter {
   padding-top: 100px;
   padding-bottom: 10px;
 }
+div.topleft {
+  position: relative;
+  image-orientation: left;
+  padding-right: 200px;
+  padding-bottom: 100px;
+  top: 40px;
+  left: 90px;
+}
+div.bottomright {
+  position: relative;
+  image-orientation: right;
+  padding-left: 700px;
+  padding-top: 100px;
+}
+div.topright {
+  position: relative;
+  text-align: right;
+  padding-left: 700px;
+  padding-top: 0px;
+  text-align: top;
+  margin-right: 100px;
+  
+}
+div.bottomleft {
+  position: relative;
+  text-align: left;
+  padding-right: 700px;
+  padding-top: 0px;
+  margin-left: 100px;
 
+}
 #logo {
   width: 1px;
   height: 1px;
