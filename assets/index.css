@@ -18,7 +18,7 @@ div.bottomcenter {
 div.topleft {
   position: relative;
   image-orientation: left;
-  padding-right: 200px;
+  padding-right: 100px;
   padding-bottom: 100px;
   top: 40px;
   left: 90px;
@@ -26,24 +26,27 @@ div.topleft {
 div.bottomright {
   position: relative;
   image-orientation: right;
-  padding-left: 700px;
-  padding-top: 100px;
+  padding-left: 0px;
+  padding-top: 5px;
+  margin-right: 180px;
+  padding-bottom: auto;
 }
 div.topright {
   position: relative;
   text-align: right;
-  padding-left: 700px;
-  padding-top: 0px;
+  padding-left: 30px;
+  padding-top: 5px;
   text-align: top;
-  margin-right: 100px;
-  
+  margin-right: 150px;
+
 }
 div.bottomleft {
   position: relative;
   text-align: left;
-  padding-right: 700px;
+  padding-right: 5px;
   padding-top: 0px;
   margin-left: 100px;
+  column-gap: normal;
 
 }
 #logo {
@@ -54,7 +57,27 @@ div.bottomleft {
   padding-right:
   position: relative;
   float: center;
+}
 
+div.row2 {
+  position: relative;
+  width: 1000px solid;
+  height: auto;
+  align-content: center;
+  margin-right: 180px;
+}
+
+div.happy {
+  background-color: grey;
+  width: 300px;
+  height: 100px;
+  margin-left: 20px;
+}
+div.party {
+  background-color: orange;
+  width: 300px;
+  height: 100px;
+  margin-left: 20px;
 }
 .row {
     column-gap: 0px;
